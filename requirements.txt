@@ -39,7 +39,6 @@ contextlib2==0.6.0.post1
 cryptography==2.8
 cx-Oracle==8.0.1
 cycler==0.10.0
-Cython==0.29.15
 cytoolz==0.10.1
 dask==2.11.0
 decorator==4.4.1
