@@ -145,7 +145,6 @@ pycosat==0.6.3
 pycparser==2.19
 pycrypto==2.6.1
 pycurl==7.43.0.5
-pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
 pyreadline==2.1
