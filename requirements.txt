@@ -170,7 +170,6 @@ qtconsole==4.6.0
 QtPy==1.9.0
 requests==2.22.0
 rope==0.16.0
-ruamel-yaml==0.15.87
 s3transfer==0.3.3
 scikit-learn==0.22.1
 seaborn==0.10.0
@@ -207,7 +206,6 @@ tqdm==4.42.1
 traitlets==4.3.3
 tzlocal==2.1
 ujson==1.35
-unicodecsv==0.14.1
 urllib3==1.25.8
 validators==0.18.1
 watchdog==0.10.2
